@@ -1,0 +1,145 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+body {
+  background-color: bisque;
+}
+.main-container {
+  width: 260px;
+  height: 380px;
+  background-color: rgba(251, 251, 250, 0.996);
+  justify-content: center;
+  /* display: flex; */
+  margin: 0px auto;
+  margin-top: 20px;
+  border-radius: 18px;
+}
+.head-1 {
+  display: flex;
+  gap: 48px;
+  padding-top: 25px;
+  width: 260px;
+  height: 30px;
+}
+.heading-1 {
+  justify-content: center;
+}
+.back-1 {
+  width: 22px;
+  height: 22px;
+}
+.more-1 {
+  width: 22px;
+  height: 22px;
+}
+.more-icon {
+  width: 22px;
+  height: 22px;
+}
+.user-1 {
+  border-radius: 40px;
+}
+.user-name {
+  padding-top: 12px;
+}
+.user-profile-section {
+  text-align: center;
+  margin: auto;
+  padding-top: 60px;
+}
+.user-list {
+  margin: auto;
+  text-align: center;
+  display: flex;
+  gap: 33px;
+  font-size: 15px;
+  padding-left: 63px;
+  padding-top: 12px;
+  color: black;
+  font-weight: bold;
+}
+.user-info {
+  margin: auto;
+  text-align: center;
+  display: flex;
+  gap: 25px;
+  padding-left: 50px;
+  padding-top: 10px;
+  color: rgb(130, 126, 126);
+  font-size: 11px;
+  font-weight: bold;
+}
+.list-info {
+  padding-top: 12px;
+}
+.btn-- {
+  margin: auto 0px;
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+}
+.btn-1 {
+  width: 80px;
+  height: 31px;
+  background-color: rgb(54, 189, 144);
+  border: none;
+  border-radius: 12px;
+  color: aliceblue;
+  font-size: 12px;
+}
+.section-1 {
+  padding-top: 10px;
+}
+.mail-div {
+  width: 33px;
+  height: 30px;
+  border-radius: 50px;
+  background-color: rgb(233, 235, 235);
+}
+.mail-1 {
+  width: 23px;
+  height: 23px;
+  padding-top: 5px;
+  padding-left: 7px;
+  border-radius: 100px;
+}
+.feild-1 {
+  display: flex;
+  gap: 14px;
+  padding-top: 20px;
+  padding-left: 5px;
+}
+.more-2 {
+  width: 22px;
+  height: 22px;
+  padding-left: 40px;
+}
+.more {
+  width: 22px;
+  height: 22px;
+}
+.photo {
+  padding-left: 5px;
+  color: black;
+  font-size: 14px;
+  font-family: sans-serif;
+  font-weight: bolder;
+}
+.video {
+  color: rgb(169, 160, 160);
+  font-size: 14px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.tagged {
+  color: rgb(169, 160, 160);
+  font-size: 14px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.pics {
+  width: 40px;
+  height: 40px;
+}
